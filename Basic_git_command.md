@@ -6,3 +6,4 @@ git checkout -b branch_name
 git switch branch_name
 git branch
 git checkout branch_name
+git clone https_link_of_repository
